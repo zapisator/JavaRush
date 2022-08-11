@@ -8,6 +8,8 @@ All files have a txt extension.
 Use "/" as a path separator.
 Use the File(String pathname) constructor to create files.
 
+==========
+
 1. На вход метода main() подаются два параметра.
 Первый - path - путь к директории, второй - resultFileAbsolutePath - имя (полный путь) существующего файла, который будет содержать результат.
 2. Переименовать resultFileAbsolutePath в allFilesContent.txt (используй метод FileUtils.renameFile(), и, если понадобится, FileUtils.isExist()).
