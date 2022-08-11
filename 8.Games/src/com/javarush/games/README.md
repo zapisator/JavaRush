@@ -1,1 +1,1 @@
-https://javarush.ru/tasks/my?quest=QUEST_GAMES
+https://javarush.ru/tasks?quest=QUEST_GAMES
