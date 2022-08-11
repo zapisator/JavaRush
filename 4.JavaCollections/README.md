@@ -1,1 +1,1 @@
-https://javarush.ru/tasks/my?quest=QUEST_JAVA_COLLECTIONS
+https://javarush.ru/tasks?quest=QUEST_JAVA_COLLECTIONS
