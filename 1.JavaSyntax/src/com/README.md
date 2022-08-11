@@ -1,1 +1,1 @@
-https://javarush.ru/tasks/my?quest=QUEST_JAVA_SYNTAX
+https://javarush.ru/tasks?quest=QUEST_JAVA_SYNTAX
